@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Read Me
 permalink: /about/
 ---
 
-Some information about you!
+As I've migrated further and further away from social media, I've been looking for other containers to organize, store, and share ideas/threads/whatnot. A couple of years ago, an old middle school friend introduced me to the idea of digital gardens! While this is not quite it functionality-wise (while i figure out jekyll and git) i hope its content and shape will grow  
 
-### More Information
+### About me
 
-A place to include any other types of information that you'd like to include about yourself.
+good question
 
-### Contact me
+### Contact 
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:email@domain.com)
